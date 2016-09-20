@@ -1,0 +1,34 @@
+#How did viewing a diff between two version of a file help you see
+# the bug that was introduced?
+
+Instead of having to go over 1000+ lines of code, the computer showed
+me where there was a difference in the two programs. Usually I would 
+consider using control + F, but the computer automatically did it for 
+me which was really nice. I'm going to use the diff compand frequently in
+the future. 
+
+#how could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Looking back on the history, you can look at mistakes you've already made and not make them again. Also, having the entire history allows other programmer to look at your code and see how you've come to certain solutions.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+
+Pro is that you get to choose logical places to commit different pieces of code. You also have more control over what code gets saved and what doesn't. A con is that you might not exactly know when a good place to commit is for other readers to understand your code. Also, you might just forget to commit. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Saving files that are related in one commit is useful because it takes away from having to save the files individually and shows that files are interrelated.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log allows you to see the history of all of the commits in a repository. Git diff allows you to see the changes between each of the commits.
+
+
+How might using version control make you more confident to make changes that could break something?
+
+If you are saving at different points you can pinpoint where you introduce bugs to your program. Also, you can use the built in diff function to see exactly what changes you made to the different commits.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I'd like to try working on projects from GitHub
