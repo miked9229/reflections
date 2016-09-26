@@ -16,7 +16,11 @@ you can always run git diff (—-staged) to compare the most recent commit to th
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+branches are helpful if you want to explore an experimental change to your repository without having to track the master branch.
+
 How do the diagrams help you visualize the branch structure?
+
+Diagrams help by showing that if and when you create a new branch and what commits are added to that branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
