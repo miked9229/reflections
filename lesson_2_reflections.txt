@@ -25,5 +25,7 @@ Diagrams help by showing that if and when you create a new branch and what commi
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result of merging two branches together is that the two branches become one. We represent it the way we do because it’s easier to visualize.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
