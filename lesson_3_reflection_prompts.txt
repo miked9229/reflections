@@ -27,4 +27,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You would want to make changes in a separate branch if you are making changes that are drastically different and that can fall into their own category. Branching off allows you to explore a whole new path for your repository. Making changes directly to your master allows you to be able to recall changes easily, but is more of a linear way of thinking.
